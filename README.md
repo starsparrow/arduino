@@ -1,2 +1,2 @@
 # arduino
-Things I'm trying to integrate with my Arduino Uno
+Stuff I have done with my Arduino Uno (warning: I am a supernoob)
